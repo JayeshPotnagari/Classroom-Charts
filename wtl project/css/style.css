@@ -1,0 +1,102 @@
+#main-wrapper{
+	width:500px;
+	margin: 0 auto;  /*bring the block to center */
+	background:white;
+	padding:5px;
+	border-radius:10px;
+	border:2px solid #2c3e50;
+}
+header {
+	padding: 0.5em;
+	color: #ecf0f1;
+	background-color: #9b59b6;
+	text-align: center;
+	border: 1px solid gray;
+}
+#header{
+	width:500px;
+	margin: 0 auto;  /*bring the block to center */
+	background:white;
+	padding:3px;
+	border-radius:10px;
+	border:2px solid #2c3e50;
+	
+}
+.login-pic{
+	width:150px;
+	text-align:center;
+}
+.logout-pic{
+	margin-top:5px;
+	width:70px;
+	float:right;
+	text-align:center;
+}
+.login-form{
+	width:450px;
+	margin:0 auto;
+}
+.register-form{
+	width:450px;
+	margin:0 auto;
+}
+.inputvalues{
+	width:430px;
+	margin:0 auto;
+	padding:5px;
+}
+#login-btn{
+	width:100%;
+	margin-top:10px;
+	background-color:#2ecc71;
+	padding:5px;
+	color:white;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+#logout-btn{
+	width:6%;
+	margin-top:7px;
+	margin-left:92%;
+	float:right;
+	background-color:#af0606;
+	padding:3px;
+	color:white;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+#register-btn{
+	width:100%;
+	margin-top:10px;
+	margin-bottom:20px;
+	background-color:#e74c3c;
+	padding:5px;
+	color:white;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+#signup-btn{
+	width:100%;
+	margin-top:10px;
+	background-color:#3b5999;
+	padding:5px;
+	color:white;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+#back-btn{
+	width:50%;
+	margin-top:10px;
+	margin-bottom:20px;
+	background-color:#c0392b;
+	padding:5px;
+	color:white;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+}
+
